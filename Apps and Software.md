@@ -61,6 +61,7 @@ Other:
 - [Spotify](https://www.spotify.com/uk/download/mac/)
 - [uTorrent Web](https://www.utorrent.com)
 - [VPN Unlimited](https://www.vpnunlimitedapp.com): VPN Client of choice, mostly because I got the lifetime subscription for cheap.
+- [Flycut](https://apps.apple.com/sg/app/flycut-clipboard-manager/id442160987?mt=12): Great little tool to store a bigger clipboard.
 
 ---
 Libraries:
