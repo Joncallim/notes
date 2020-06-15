@@ -48,6 +48,8 @@ Programming:
 - [Github Desktop](https://desktop.github.com): Use to manage and push updates to github repos.
 - [Kite](https://kite.com): Great little tool to do autocomplete in lots of editors.
 - [XCode](https://apps.apple.com/sg/app/xcode/id497799835?mt=12)
+- [Docker Desktop](https://www.docker.com/products/docker-desktop)
+- [iTerm 2](https://www.iterm2.com)
 
 ---
 Other:
