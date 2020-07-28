@@ -65,6 +65,7 @@ Other:
 - [uTorrent Web](https://www.utorrent.com)
 - [VPN Unlimited](https://www.vpnunlimitedapp.com): VPN Client of choice, mostly because I got the lifetime subscription for cheap.
 - [Flycut](https://apps.apple.com/sg/app/flycut-clipboard-manager/id442160987?mt=12): Great little tool to store a bigger clipboard.
+- [VirtualBox] (https://www.virtualbox.org): Virtual Machine, good to run Windows when compiling for some binaries or other
 
 ---
 Libraries:
