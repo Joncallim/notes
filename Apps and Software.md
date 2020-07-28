@@ -27,6 +27,7 @@ Mods:
 - [Hungrymark](https://apps.apple.com/sg/app/hungrymark/id1482778901?mt=12): Really cool bookmark button for websites, files, apps, lots of things you can use!
 - [Magnet](https://apps.apple.com/sg/app/magnet/id441258766?mt=12): Nice snap-to-corner window manager making it a bit more windows-esque, free alternative is [Rectangle](https://rectangleapp.com).
 - [Lungo](https://apps.apple.com/sg/app-bundle/sindres-menu-bar-bundle/id1439413445?mt=12): Keeps your mac on permanently if you need to run renders etc. while AFK.
+- [Amphetamine] (https://apps.apple.com/us/app/amphetamine/id937984704?mt=12): Good *free* alternative to Lungo, with pretty good granular control.
 - [Dato](https://apps.apple.com/sg/app/dato/id1470584107?mt=12): Fairly convenient clock/calendar replacement that offers good customisation.
 - [Karibiner-Elements](https://karabiner-elements.pqrs.org): Karibiner does desktop shortcuts. I've used it almost exclusively to map my mouse keys to switch between virtual desktops (workspaces), because I realised I use that a LOT when I was working with a touchpad.
 - [Colormate](https://apps.apple.com/us/app/colormate-picker-organizer/id1514980873?mt=12): Allows picking colours and copying them from anywhere on the screen - has turned out to be incredibly useful!
@@ -69,3 +70,5 @@ Other:
 Libraries:
 
 - [PlaidML](https://plaidml.github.io/plaidml/): Tensor Compiler for any old graphics card - much faster than just chugging along with a slow CPU.
+- [PDF2SVG] (http://www.cityinthesky.co.uk/opensource/pdf2svg/): Converts any old PDFs to vector graphics - has turned out to be super useful.
+
