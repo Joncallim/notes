@@ -2,6 +2,8 @@
 
 There is an absolute **ton** of great software out there. I've put a list together here with my favourite little bits of software, partially for my own reference, and partially because I think people should all experience these awesome software.
 
+[Design](#design) 
+
 ---
 
 # Design
@@ -185,5 +187,3 @@ I use python for quick-and-dirty jobs. These libraries are either ML stuff (I've
 - [PDF2SVG](http://www.cityinthesky.co.uk/opensource/pdf2svg/): Converts any old PDFs to vector graphics - has turned out to be super useful.
 - [PyFiglet](https://github.com/pwaller/pyfiglet/tree/master/pyfiglet/fonts): Great little library to make cool header text.
 - [Cowsay](https://www.npmjs.com/package/cowsay): Another great little cool ASCII art text library.
-
-
