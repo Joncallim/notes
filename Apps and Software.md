@@ -2,7 +2,25 @@
 
 There is an absolute **ton** of great software out there. I've put a list together here with my favourite little bits of software, partially for my own reference, and partially because I think people should all experience these awesome software.
 
-[Design](#design) 
+
+
+I've broken them up into a few simple sections:
+
+1. [Design](#design)
+
+2. [Writing](#Writing)
+
+3. [Media](#Media)
+
+4. [System Modifications](#System-Modifications)
+
+5. [Hardware](#Hardware)
+
+6. [Games](#Games)
+
+7. [Programming](#Programming)
+
+8. [Python Libraries](#Python-Libraries)
 
 ---
 
