@@ -1,6 +1,7 @@
 # Apps and Software
 
 ---
+
 Productivity and Photo/Video:
 
 - [Affinity Photo](https://affinity.serif.com/en-gb/photo/): Lightweight photo editor very photoshop-esque but works smoothly and for much less money.
@@ -13,6 +14,7 @@ Productivity and Photo/Video:
 - [TexPad](https://apps.apple.com/sg/app/texpad-latex-editor/id458866234?mt=12): Not a free editor, but is really pretty and nice to use for smaller projects.
 
 ---
+
 Messaging and Social Media:
 
 - [Zoom](https://zoom.us)
@@ -22,6 +24,7 @@ Messaging and Social Media:
 - [Facebook Messenger Desktop](https://www.messenger.com/desktop)
 
 ---
+
 Mods:
 
 - [Hungrymark](https://apps.apple.com/sg/app/hungrymark/id1482778901?mt=12): Really cool bookmark button for websites, files, apps, lots of things you can use!
@@ -42,6 +45,7 @@ Mods:
 - [ViMac](https://vimacapp.com): Keyboard scrolling, replaces little shortcuts and checkboxes with letter keys, makes it super easy to use vim-like shortcuts in most of the mac environment.
 
 ---
+
 Programming:
 
 - [Anaconda](https://www.anaconda.com): Python distribution of choice - I also prefer Spyder over Pycharm.
@@ -53,6 +57,7 @@ Programming:
 - [iTerm 2](https://www.iterm2.com)
 
 ---
+
 Other:
 
 - [Voxal](https://www.nchsoftware.com/voicechanger/index.html): Nice and free audio changer - fun to use in Discord etc.
@@ -68,8 +73,23 @@ Other:
 - [VirtualBox] (https://www.virtualbox.org): Virtual Machine, good to run Windows when compiling for some binaries or other
 
 ---
-Libraries:
+
+ _ _ _ _ 
+
+```
+ _     _ _                    _           
+| |   (_) |__  _ __ __ _ _ __(_) ___  ___ 
+| |   | | '_ \| '__/ _` | '__| |/ _ \/ __|
+| |___| | |_) | | | (_| | |  | |  __/\__ \
+|_____|_|_.__/|_|  \__,_|_|  |_|\___||___/
+```
+
+
 
 - [PlaidML](https://plaidml.github.io/plaidml/): Tensor Compiler for any old graphics card - much faster than just chugging along with a slow CPU.
-- [PDF2SVG] (http://www.cityinthesky.co.uk/opensource/pdf2svg/): Converts any old PDFs to vector graphics - has turned out to be super useful.
+- [PDF2SVG](http://www.cityinthesky.co.uk/opensource/pdf2svg/): Converts any old PDFs to vector graphics - has turned out to be super useful.
+- [PyFiglet](https://github.com/pwaller/pyfiglet/tree/master/pyfiglet/fonts): Great little library to make cool header text.
+
+
+
 
