@@ -177,11 +177,11 @@ Gaming on mac isn't really all that great, but you can have fun too!
 
 I thought Apple Arcade was a waste of time when it first came out, but it turns out casual gaming was exactly what I needed to kill time when I *really* don't feel like playing a real game or reading a book. My current playlist:
 
-- [Butter Royale]((https://apps.apple.com/sg/app/butter-royale/id1464649839?mt=12): Genuinely a great little battle royale game that's not at all difficult to pick up and mess around with!
+- [Butter Royale](https://apps.apple.com/sg/app/butter-royale/id1464649839?mt=12): Genuinely a great little battle royale game that's not at all difficult to pick up and mess around with!
 
-- [‎Oceanhorn 2](https://apps.apple.com/sg/app/oceanhorn-2/id1460715987?mt=12): Honestly, this is just a fantastic game.
+- [Oceanhorn 2](https://apps.apple.com/sg/app/oceanhorn-2/id1460715987?mt=12): Honestly, this is just a fantastic game.
 
-- [‎Overland](https://apps.apple.com/sg/app/overland/id1467652041?mt=12): I am a *sucker* for turn-based strategy, and the fact that this game is hair-pullingly difficult is even better!
+- [Overland](https://apps.apple.com/sg/app/overland/id1467652041?mt=12): I am a *sucker* for turn-based strategy, and the fact that this game is hair-pullingly difficult is even better!
 
 ---
 
