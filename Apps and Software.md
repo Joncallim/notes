@@ -125,13 +125,13 @@ These are little mods that you'll use right up front (with keyboard shortcuts or
 
 These exist in the background a little more - you'll probably notice they're gone more than you'll notice than they're around, but YMMV.
 
-- [Glance]([GitHub - samuelmeuli/glance: 🔎 All-in-one Quick Look plugin](https://github.com/samuelmeuli/glance)): Gives some much nicer markup for things like Python/Markdown files.
+- [Glance](https://github.com/samuelmeuli/glance): Gives some much nicer markup for things like Python/Markdown files.
 
-- [BlackHole]([GitHub - ExistentialAudio/BlackHole: BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.](https://github.com/ExistentialAudio/BlackHole)): BlackHole is a modern MacOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
+- [BlackHole](https://github.com/ExistentialAudio/BlackHole): BlackHole is a modern MacOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
 
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12):Keeps your mac on permanently if you need to run renders etc. while AFK, with pretty good granular control. A paid alternative I've used before is [Lungo](https://apps.apple.com/sg/app-bundle/sindres-menu-bar-bundle/id1439413445?mt=12).
 
-- [Karibiner-Elements]([Karabiner-Elements](https://karabiner-elements.pqrs.org)): Karibiner does desktop shortcuts. I've used it almost exclusively to map my mouse keys to switch between virtual desktops (workspaces), because I realised I use that a LOT when I was working with a touchpad.
+- [Karabiner-Elements](https://karabiner-elements.pqrs.org): Karibiner does desktop shortcuts. I've used it almost exclusively to map my mouse keys to switch between virtual desktops (workspaces), because I realised I use that a LOT when I was working with a touchpad.
 
 - [Mos](https://mos.caldis.me): Smooth scrolling with the mouse on mac! I wish apple built this in automatically...
 
