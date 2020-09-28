@@ -2,8 +2,6 @@
 
 There is an absolute **ton** of great software out there. I've put a list together here with my favourite little bits of software, partially for my own reference, and partially because I think people should all experience these awesome software.
 
-
-
 I've broken them up into a few simple sections:
 
 1. [Design](#design)
@@ -53,6 +51,10 @@ Sometimes I jot down notes in markdown, and sometimes I take a bit more time to 
 
 - [Obsidian](https://obsidian.md): A *very* pretty interface for taking notes in Markdown. I don't really use it at the moment, but I have it on this list in case I want to try!
 
+#### Text Editor
+
+- [Atom](https://atom.io): The hackable text editor for the 21st Century
+
 ---
 
 # Media
@@ -64,6 +66,7 @@ Sometimes I jot down notes in markdown, and sometimes I take a bit more time to 
 - [Telegram Lite](https://apps.apple.com/sg/app/telegram-lite/id946399090?mt=12)
 - [Discord](https://discord.com)
 - [Facebook Messenger](https://www.messenger.com/desktop)
+- [Franz](https://meetfranz.com): Franz is a messaging app for WhatsApp, Facebook Messenger, Slack, Telegram and many many more. Free version lets you add 3 services, but you can pay for more.
 
 #### Entertainment
 
@@ -146,6 +149,12 @@ These bits do maintenance and help to run other little things that might be used
 - [CleanMyMacX](https://macpaw.com/cleanmymac): I'm a sucker for clean interfaces and lightweight software. CleanMyMacX removes bloat fairly quickly and you can either get it with SetApp or buy an individual subscription/pay a lifetime fee.
 
 - [TinkerTool](https://www.bresink.com/osx/TinkerTool.html): Access to additional preference settings Apple has built into macOS.
+
+- [DeepL](https://www.deepl.com/app/thanks): Basically a native translation interface that uses DeepL - with a nice clean interface.
+
+- [CleanShotX](https://cleanshot.com): Great screenshotting interface. I like the native interface but things like scrolling capture have turned out to be pretty great additions.
+
+- [Aerial](https://github.com/glouel/AerialCompanion/releases/latest/download/AerialInstaller.dmg): Screensaver application that lets you play Aerial videos from Apple's tvOS screensaver.
 
 ---
 
