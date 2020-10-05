@@ -138,6 +138,8 @@ These exist in the background a little more - you'll probably notice they're gon
 
 - [Mos](https://mos.caldis.me): Smooth scrolling with the mouse on mac! I wish apple built this in automatically...
 
+- [Dozer](https://github.com/Mortennn/Dozer): Hide menu bar icons to give your Mac a cleaner look.
+
 #### Utility
 
 These bits do maintenance and help to run other little things that might be used once every few days/weeks.
